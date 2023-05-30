@@ -5,14 +5,13 @@
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
+.font-size {
+    font-size: 24px;
+}
+
 #two {
     color: #2c8eff;
     font-size: 36px;
-}
-
-#three,
-#four {
-    font-size: 24px;
 }
 
 #four {
