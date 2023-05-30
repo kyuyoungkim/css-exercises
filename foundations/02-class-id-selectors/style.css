@@ -9,3 +9,13 @@
     color: #2c8eff;
     font-size: 36px;
 }
+
+#three,
+#four {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #59e7a7;
+    font-weight: bold;
+}
